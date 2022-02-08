@@ -1,0 +1,15 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.containerrates {
+        max-width: 50%;
+        padding-top:40px;
+        padding: 15px;
+        margin: 0 auto;
+        border-style: groove;}
